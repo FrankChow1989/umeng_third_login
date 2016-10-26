@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\meiyu.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-mdpi\\meiyu.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\test.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-mdpi\\test.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\device.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-mdpi\\device.png"
+    }
+]

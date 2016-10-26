@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchimage_choose.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_switchimage_unchoose.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

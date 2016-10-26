@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\Users\\pc\\Desktop\\umeng_third_login1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 706
+                    }
+                }
+            }
+        ]
+    }
+]
