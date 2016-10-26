@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="1d1e0bb6a19edf3b62f12855f07eaf2f77e10ae0">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_2_5384969151a300db88defa30b30b14dbf35da17b.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_shake.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8e5f4fdbd9f2b719cac98d48df606fd34ecf9d87">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_shake_2ba0422e15ce6900096827feb049960483fd557d.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_de017de02cc13708be13040969e095064d83648e.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_AtFriends.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0478e38d722e676a0f1b721817f65d0fc0e32364">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_AtFriends_846a0ce9f8ab9c3a146abce02a2daedc950a714e.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_yixin_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5c13f75ae8d868d6ac5ba7ebf191b141e906dc1f">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_yixin_2_868d6dc118f86701ee81ed401cee28b7ce179f84.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_comment.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5e8799c317f0faaead7e1bc018ebb606c889863">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_comment_2b8df92dbd1fefa8d94def91178391e3ef36dcf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_evernote.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e3782160fd2a6762207e34b0d89a81ac806dd2e7">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_evernote_4f908a0d792fce82b0eeecfc6a8aa13593f1855d.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_like.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6ca2bf46e8d7de4267e4e4537616d0375b584081">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_like_6f4c45fdf132680b6982d19153f9c77b02794599.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="73915005d14af2994f235034b9f9832d666a6ec9">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_8242511f4a9b74a31d2e1076122f11d4ab2eca7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0752173798b8d091cdc96bfaa0d242f6c93ec806">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_sms_ff5337fa6967603453633fd6b78a480b8adb6dd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_facebook_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="00b4e434b4ce515b763df8affe267b70ebfe10b0">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_facebook_2_f0a51f3f5f19b904210066c56b4c39243fa6a706.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_instagram.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7c8d1dded215fcf8ff6df7e8d813f14bc06571ec">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_instagram_02ea12b6baf19040c72982ec5b9595451078b206.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_yixin_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_yixin_1_94bafe53558e0f03ca5c8b65764969e396ccff9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d53a46eb19f4e70b25b06235447adb98fc2428ab">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_0e839573321c554b1adebfe6a3d5dd1e8197d569.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_facebook_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="68abd76cf1bb8929652b6d684690f9417c341872">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_facebook_1_ae44eed4b4d64a345e513ad6caeea41903fa7ccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_1_53034440f9b3a7931cbd009483c1209a6d29afaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_UserCenter.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f22bec2e15db420e09ccbc0230c114e95b09c917">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_UserCenter_c21ab4c08ba839f7a2d10b4e1aaefc2da37194f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3_b2121ec81b7d387eedb4278cb4d0098ef1265456.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_scrshot.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="19bb87cfac63079fc381bcc0aeb0bd0417c34adc">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_scrshot_a14ced977d0cb4a50a9271fa9453e713ed55b003.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_renren_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_renren_1_972d16e944ed35db97886320b7c1c7c0e2ae30e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_actionbarview.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2aa0a2636067a4a726af3b6e7be78f5b1af96f45">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_actionbarview_5a84317726e10505c3574f58cb0447b1239ff406.jar" />
+    </item>
+    <item
+        jar="D:\ProgramFiles\androidsdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_318bcb2ef73b50c5789c9ab92e1cf3944f2ea61b.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="676d0f800b0124e4fd11f7358c8f873f76a59169">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_4f95fef213d73d6e7f28ae3eff299992ef8c6b2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a67f8583b21c7491a57163e5f4788623bf12b4aa">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_558b2ed961c11065259af4e7a04b3fe32235d9a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_3741bcd79e9686b4e775097bab857f444d6d42d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_ynote.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2a2d7118a48c591fe9d87f9a4252194d02b11af2">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_ynote_1733f48accca9e4e648cd88cd015118c926a0da2.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_email.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b040a4a967c1333f2c46fc1bf198d0564d493be6">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_email_ff370f01d2094ccdb493dc955f26198797983a3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_6d0e97da1196ddaa84ca4546449351790ad922dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_pinterest.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5e52956885b68cc193ec19bb0660334271b16298">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_pinterest_219efd5160bc75db24b0f68ff4a0fc68ad77f9df.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_renren_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="481abc0707bada5f87ff6ae0218f4ad63807b334">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_renren_2_9eea3ff7af99ac8669b6efcb55dfe4c708d175a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5dd4446548e68a6a853b2de1b4b61046ad92ecff">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_31e1eac1639f19e9528e572fea4fb540dc445e71.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_ef074557432a01b65f8f203b61c1e1a9d131f25e.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_pocket.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8681cd6dedb8b8137bc6df195ab04b7e5aed2427">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_pocket_d943f8278e274709ab833b4ffe4c482c264e51b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_linkedin.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="694df21b4d328f913fc3c1a3f3e58bdb29369fb0">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_linkedin_fd07d5abf850a13025ea3f0f50d4652ec65c71de.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\umeng_third_login1\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9395899a5958d59894926fc229c850338862a81e">
+        <dex dex="C:\Users\pc\Desktop\umeng_third_login1\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_18283c0f5c03b9bd95a6942fbfe1a36216e3d02b.jar" />
+    </item>
+
+</items>
